@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "开课中",
+  "usingComponents": {
+    "bottom-bar": "/components/tabbar/bottomtabbar"
+  }
+}

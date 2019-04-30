@@ -1,0 +1,81 @@
+
+.course-jx-bkg{
+		top:0;
+		z-index:1;
+		background:#0078FF;
+}
+.course-top-img{
+		width:309rpx;
+		margin-left:328rpx;
+		height:213rpx;
+		top:40rpx;
+		background:red;
+}
+.course-info{
+		z-index:2;
+		border-radius:30rpx 30rpx 0 0;
+		/* height:679upx; */
+		padding:65rpx 31rpx 49rpx 56rpx;
+}
+.capsule {
+       background-color: #316ED5;
+       width: 45rpx;
+       height:20rpx;
+       border-radius: 20rpx;
+       margin-right: 0.4rem;
+}
+.circular {
+ background:rgba(39,103,209,0.6);
+  width:20rpx;
+  height: 20rpx;
+}
+.not-know{
+	width:219rpx;
+	height:42rpx;
+	line-height:42rpx;
+}
+.number-study{
+	width:127rpx;
+	height:42rpx;
+	line-height:42rpx;
+}
+.course-detail{
+  padding:35rpx 45rpx 35rpx 45rpx;
+}
+.course-notice{
+  padding:35rpx 65rpx 100rpx 65rpx;
+}
+.icon-how{
+	width:29rpx;
+	height:25rpx;
+	top:4rpx;
+}
+.icon-time{
+	width:29rpx;
+	height:29rpx;
+	top:4rpx;
+}
+.icon-place{
+	width:26rpx;
+	height:32rpx;
+	top:4rpx;
+}
+.icon-people{
+	width:33rpx;
+	height:28rpx;
+	top:4rpx;
+}
+.sign-up-btn{
+   height:100rpx;
+   background:-webkit-gradient(linear,left top, right top,from(rgba(253,195,74,1)),color-stop(54%, rgba(253,169,75,1)),to(rgba(255,170,69,1)));
+   background:-o-linear-gradient(left,rgba(253,195,74,1) 0%,rgba(253,169,75,1) 54%,rgba(255,170,69,1) 100%);
+   background:linear-gradient(90deg,rgba(253,195,74,1) 0%,rgba(253,169,75,1) 54%,rgba(255,170,69,1) 100%);
+    border-radius:50rpx;
+	line-height:100rpx;
+}
+.img-wrapper-middle{
+	 margin:30rpx auto;
+	 width:700rpx;
+	 height:340rpx;
+}
+

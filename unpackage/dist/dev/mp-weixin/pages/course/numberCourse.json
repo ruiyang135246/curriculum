@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "课程信息",
+  "usingComponents": {
+    "bottom-bar": "/components/tabbar/bottomtabbar"
+  }
+}

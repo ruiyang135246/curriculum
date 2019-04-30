@@ -1,0 +1,29 @@
+
+.tab-bar.data-v-0f44efb3{
+	width:568rpx;
+	height:90rpx;
+	
+	right:0;
+	bottom:90rpx;
+	z-index:998
+}
+.tar-more.data-v-0f44efb3{
+right:0;
+bottom:90rpx;
+z-index:999
+}
+.tiny-icon-kk.data-v-0f44efb3{
+		width:34rpx;
+		height:34rpx;
+}
+.tiny-icon-sm.data-v-0f44efb3{
+	 width:36rpx;
+	 height:36rpx;
+}
+.margin-left-super-big.data-v-0f44efb3{
+	 margin-left:71rpx;
+}
+.margin-left-big.data-v-0f44efb3{
+ 	 margin-left:94rpx;
+}
+

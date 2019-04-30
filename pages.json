@@ -1,0 +1,71 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "我的收益"
+			}
+		},
+		{
+			"path": "pages/course/infoCoure",
+			"style": {
+				"navigationBarTitleText": "课程详情"
+			}
+		},
+		{
+			"path": "pages/course/numberCourse",
+			"style": {
+				"navigationBarTitleText": "课程信息"
+			}
+		},
+		{
+			"path": "pages/course/openCourse",
+			"style": {
+				"navigationBarTitleText": "开课中"
+			}
+		},
+		{
+            "path" : "pages/login/login",
+            "style" : {
+					"navigationBarTitleText": "授权登录"
+			}
+        }
+    ],
+	// 	"globalStyle": {
+	// 	"mp-alipay": {
+	// 		/* 支付宝小程序特有相关 */
+	// 		"transparentTitle": "always",
+	// 		"allowsBounceVertical": "NO"
+	// 	},
+	// 	"navigationBarBackgroundColor": "#F8F8F8",
+	// 	"navigationBarTitleText": "ColorUi for UniApp",
+	// 	"navigationStyle": "custom",
+	// 	"navigationBarTextStyle": "black"
+	// }
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#ffffff"
+	},
+	"tabBar": {
+		"color":"#8a8a8a",
+		"selectedColor":"#d4237a",
+		"borderStyle":"black",
+		"backgroundColor":"#ffffff",
+		"list": [
+			{
+				"pagePath":"pages/index/index",
+				"text":"用户中心",
+				"iconPath":"static/logo.png",
+				"selectedIconPath":"static/logo.png"
+			},
+			{
+				"pagePath":"pages/course/openCourse",
+				"text":"开课中",
+				"iconPath":"static/logo.png",
+				"selectedIconPath":"static/logo.png"
+			}
+		]	
+	 }
+}

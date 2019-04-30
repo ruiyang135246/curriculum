@@ -1,0 +1,17 @@
+
+.course-type.data-v-504dd30c{
+	height:308rpx;
+	border-radius:30rpx 30rpx 0 0;
+	background:red;
+}
+.course-bottom-info.data-v-504dd30c{
+	border-radius:0rpx 0rpx 20rpx 20rpx;
+	padding:0 27rpx;
+	height:102rpx
+}
+.tiny-icon-people.data-v-504dd30c{
+	width:15rpx;
+	height:20rpx;
+	margin-right:13rpx;
+}
+

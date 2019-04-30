@@ -1,0 +1,34 @@
+
+.user-msg-box{
+ height:400rpx;
+}
+.course-img{
+	 width:255rpx;
+	 height:170rpx;
+}
+.settings-style{
+	 right:56rpx;
+	 top:86rpx;
+	 width:30rpx;
+	 height:34rpx;
+}
+.course-bkg{
+	 height:170rpx;
+}
+.bottom-tabar{
+	 width:568rpx;
+	 height:90rpx;
+	 right:0;
+	 bottom:90rpx;
+}
+.bottom-nav{
+     height:90rpx;
+}
+.more-btn{
+	 right:0;
+	 bottom:90rpx;
+}
+.student-width{
+	 width:60rpx;
+}
+

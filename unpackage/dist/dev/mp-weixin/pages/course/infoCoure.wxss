@@ -1,0 +1,47 @@
+
+.nav-size.data-v-2ec53337{
+	height:90rpx;
+	/* line-height: 70upx; */
+}
+.student-info.data-v-2ec53337{
+	padding-bottom:73rpx;
+	padding-left:41rpx;
+	padding-top:13rpx;
+}
+.course-info-detail.data-v-2ec53337{
+ height:308rpx;
+ border-radius:30rpx;
+ background:red;
+}
+.text-light-blue.data-v-2ec53337{
+ color:#0088FF;
+}
+.course-info-del.data-v-2ec53337{
+	padding-left:18rpx;
+	padding-top:30rpx;
+	padding-bottom:250rpx;
+}
+.course-title.data-v-2ec53337{
+	height:57rpx;
+}
+.course-time.data-v-2ec53337{
+	padding-left:43rpx;
+	line-height:50rpx;
+}
+.tiny-icon-time.data-v-2ec53337{
+	width:29rpx;
+	height:29rpx;
+}
+.tiny-icon-place.data-v-2ec53337{
+	width:26rpx;
+	height:32rpx;
+}
+.tiny-icon-unsign.data-v-2ec53337{
+	width:26rpx;
+	height:26rpx;
+	top:4rpx;
+}
+.font-color-active.data-v-2ec53337{
+	color:#FFAE77;
+}
+
